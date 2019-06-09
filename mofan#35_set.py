@@ -22,7 +22,7 @@ print(unique_char)
 set1=unique_char
 set2={'a','e','i'}
 print(set2.difference(set1)) ## 返回set2中独有的
-print(set1.intersection(set2))
+print(set1.intersection(set2)) ## 返回相交的
 print(set1.difference(set2))
 
 
