@@ -1,0 +1,1 @@
+- [ ] b = input(), what's the type of b ? 
