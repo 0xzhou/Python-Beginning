@@ -15,12 +15,16 @@ def train(env_name='CarPole-v0', hidden_size=[32], lr=1e-2,
 
     # make environment, check spaces, get obs / act dims
     env=gym.make(env_name)
+    # assert的意义：
+    # isinstance判断一个变量是否属于某一类型：isintance(a, int)
     assert isinstance(env.observation_space, Box), \
         "This example only works for envs with continuous state spaces."
     assert isinstance(env.action_space,Discrete), \
-        "This example only works for envs with discret state spaces."
+        "This example only works for envs with discret action spaces."
 
     obs_dim=env.observation_space[0]
     n_acts=env.action_space.n
 
     # make core of policy network
+    obs_ph=tf.placeholder(shape=(None,obs_dim),dtype=tf.float32)
+    logits=mlp(obs_ph,sizes=hidden_size+[n_acts])
