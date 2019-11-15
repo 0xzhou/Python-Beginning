@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3147ea23-5755-4e2f-abfd-179c0384dc03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic_math_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mofan_example2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RL-SpinningUp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RL-SpinningUp/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3147ea23-5755-4e2f-abfd-179c0384dc03" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic_math_operations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
+            <state relative-caret-position="425">
               <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
@@ -34,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mofan_example2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            <state relative-caret-position="500">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -71,10 +67,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="292" />
-    <option name="y" value="24" />
+    <option name="x" value="291" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
-    <option name="height" value="1028" />
+    <option name="height" value="1029" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -82,7 +78,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,9 +89,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/CARLA/CARLA 0.9.5/PythonAPI/examples" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -176,10 +173,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24987654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -204,7 +200,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic_math_operations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
+        <state relative-caret-position="425">
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
@@ -214,8 +210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mofan_example2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        <state relative-caret-position="500">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
