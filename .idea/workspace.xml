@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67b3b890-8177-4675-b160-b121e732cd7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/strip().py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mofan#29_zip,lamda,map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mofan#30_copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mofan#31_threading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mofan#34_pickle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mofan#35_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mofan#36_正则表达式.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,12 +16,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/strip().py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -25,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/numpy_learning/tile().py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="250">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -51,16 +55,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1272" />
-    <option name="width" value="1297" />
-    <option name="height" value="1398" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1271" />
+    <option name="width" value="1298" />
+    <option name="height" value="1399" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -68,16 +73,10 @@
               <item name="Python-Beginning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Beginning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python-Beginning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Beginning" type="462c0819:PsiDirectoryNode" />
-              <item name="numpy_learning" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,9 +143,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1018" y="0" width="1037" height="1118" extended-state="0" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.50469136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -157,7 +156,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3299389" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33030304" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299389" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -170,17 +169,17 @@
     <entry file="file://$PROJECT_DIR$/Python-100Days/Day8.py" />
     <entry file="file://$PROJECT_DIR$/Session会话控制.ipynb" />
     <entry file="file://$PROJECT_DIR$/def_add_layer.ipynb" />
-    <entry file="file://$PROJECT_DIR$/numpy_learning/tile().py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/strip().py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy_learning/tile().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
